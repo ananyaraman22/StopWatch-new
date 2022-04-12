@@ -1,0 +1,40 @@
+.container{
+    /* background-color: yellow; */
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
+label{
+    font-size:4rem;
+}
+#lap,#start{
+    
+    padding: 25px;
+    margin: 30px;
+    border-radius: 50%;
+    font-size: 3rem;
+    letter-spacing: .2em;
+    box-shadow: 0px 0px 18px 5px blue,0px 0px 18px 10px pink,0px 0px 18px 15px green ;
+}
+#lap{
+    background-color: rgb(87, 87, 87);
+    color: rgb(214, 214, 214);
+    box-shadow: 0px 0px 18px 5px blue,0px 0px 18px 10px pink,0px 0px 18px 15px green ;
+}
+/* #start{
+    background-color: rgb(70, 84, 112);
+    color: rgb(170, 164, 187);
+} */
+#start{
+    background-color: rgb(92, 54, 54);
+    color: rgb(255, 8, 8);
+    box-shadow: 0px 0px 18px 5px rgb(255, 0, 0),0px 0px 18px 10px rgb(182, 2, 2),0px 0px 18px 15px rgb(128, 0, 0) ;
+}
+#con2{
+    margin-top:20px;
+    padding: 10px;
+}
